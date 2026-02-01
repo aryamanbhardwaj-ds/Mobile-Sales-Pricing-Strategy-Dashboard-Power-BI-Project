@@ -1,24 +1,83 @@
-# Mobile-Sales-Pricing-Strategy-Dashboard-Power-BI-Project
-This project goes beyond basic sales reporting and focuses on business decision insights that brands and retailers can actually use for pricing, positioning, and product strategy.
-I built this end-to-end Power BI dashboard to analyze how pricing, discounts, customer ratings, and features influence mobile sales performance across major brands like Apple, Samsung, Realme, Xiaomi, and Poco.
-Key Business Insights
+Mobile Sales & Pricing Strategy Dashboard (Power BI)
 
-• Realme emerges as the top performer in overall sales and revenue, dominating the mid-range market.
-• Redmi Note series leads in unit sales, showing strong customer preference for balanced price and features.
-• Apple generates lower sales volume but higher revenue per unit due to premium pricing.
-• Higher discounts do not always result in higher sales — perceived value and features matter more.
-• The ₹30K+ price band contributes the highest revenue, confirming the profitability of premium devices.
-• 6GB RAM and higher battery capacity models drive the strongest sales, highlighting performance-driven buying behavior.
-• Apple has the highest average customer ratings, reflecting superior perceived quality.
-• Realme and Xiaomi lead in the value-for-money segment, balancing pricing and demand.
+This project analyzes how pricing, discounts, customer ratings, and device features impact mobile phone sales performance across major brands — Apple, Samsung, Realme, Xiaomi, and Poco.
+The dashboard focuses on business decision insights rather than only sales reporting. It demonstrates how data can be used for pricing strategy, brand positioning, and product planning in the consumer electronics market.
 
-What this dashboard demonstrates
+Problem Statement
 
-• Advanced DAX measures for KPI engineering
-• Price sensitivity and discount effectiveness analysis
-• Brand positioning using price vs rating vs sales
-• Feature impact analysis (RAM, Battery, Price Band)
-• Business storytelling through interactive visuals
+Retailers and brands often struggle to understand:
+Do higher discounts really increase sales?
+Which price band contributes the most revenue?
+What features (RAM, Battery) drive customer purchase decisions?
+How do ratings influence brand positioning and sales?
+Which brands win in premium vs value-for-money segments?
 
-This project helped me explore how data can guide pricing strategy, product positioning, and market targeting in the consumer electronics industry.
-Dashboard built using Power BI.
+This dashboard answers these questions using data-driven analysis.
+
+Dashboard Pages Overview
+1. Brand Sales Overview
+Total Sales, Revenue, Average Rating, Average Discount
+Brand-wise sales and revenue comparison
+Identifies top-performing brands
+
+2. Customer Ratings & Feature Impact
+Average review ratings by brand
+Impact of RAM and Battery on sales
+Most reviewed and top-selling models
+
+3. Model & Feature Sales Analysis
+Top models by sales
+RAM-wise and Battery-wise sales comparison
+Average Selling Price (ASP)
+
+4. Discount & Price Sensitivity Analysis
+Relationship between discount and sales
+Price Sensitivity Index
+Revenue per discount point
+Sales distribution across price bands
+
+5. Brand Positioning Analysis
+Price vs Rating vs Sales positioning
+Value-for-money score
+Premium vs mass-market brand identification
+
+Key Insights
+Realme leads in total sales and revenue due to strong mid-range demand.
+Redmi Note series models dominate unit sales.
+Apple follows a premium strategy with high revenue per unit but lower volume.
+Higher discounts do not guarantee higher sales.
+Devices priced above ₹30K contribute the highest revenue.
+6GB RAM and higher battery capacity models show maximum demand.
+Apple has the highest average customer rating.
+Realme and Xiaomi dominate the value-for-money segment.
+
+Skills & Concepts Demonstrated
+Advanced DAX measures and KPI creation
+Price sensitivity and discount effectiveness analysis
+Feature-driven sales analysis
+Business storytelling through dashboards
+Data modeling and transformation in Power Query
+Interactive report design in Power BI
+
+Tools Used
+Power BI
+Power Query
+DAX
+
+How to Use
+Download the .pbix file from this repository.
+
+Open in Power BI Desktop.
+Interact with brand filters and visuals to explore insights.
+
+Business Value
+This dashboard can help:
+Retailers optimize discount strategies
+Brands identify profitable price segments
+Product teams understand feature demand
+Marketing teams improve brand positioning
+
+Author
+
+Aryaman Bhardwaj
+Data Analyst | Data Science Enthusiast
